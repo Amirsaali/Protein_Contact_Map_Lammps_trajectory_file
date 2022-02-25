@@ -15,7 +15,7 @@ This project is aimed to use lammps trajectory file resulted from LAMMPS and a s
 
 Python dependencies:
 
--. Numpy >= 4.1.0
+- Numpy >= 4.1.0
 
 -. pandas >= 1.3.4
 
